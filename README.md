@@ -1,2 +1,2 @@
-P-ssw0rd_Beach-Server
+P4ssw0rdBeach-Server
 =====================
